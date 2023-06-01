@@ -8,7 +8,7 @@ Run project
 source pipeline/build.sh
 ```
 
-Remvoe all dir and files create in the build
+Remove all dir and files create in the build
 
 ```
 source pipeline/destroy.sh
